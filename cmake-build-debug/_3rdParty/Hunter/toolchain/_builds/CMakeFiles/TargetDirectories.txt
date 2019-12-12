@@ -1,2 +1,2 @@
-/cygdrive/c/универ/GITHUB/labs3/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/универ/GITHUB/labs3/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir
+/cygdrive/d/LABB01/lab3.1/labs3/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/LABB01/lab3.1/labs3/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir

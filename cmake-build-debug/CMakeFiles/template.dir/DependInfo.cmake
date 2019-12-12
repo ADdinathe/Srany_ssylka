@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/универ/GITHUB/labs3/sources/SharedPtr.cpp" "/cygdrive/c/универ/GITHUB/labs3/cmake-build-debug/CMakeFiles/template.dir/sources/SharedPtr.cpp.o"
+  "/cygdrive/d/LABB01/lab3.1/labs3/sources/SharedPtr.cpp" "/cygdrive/d/LABB01/lab3.1/labs3/cmake-build-debug/CMakeFiles/template.dir/sources/SharedPtr.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/универ/GITHUB/labs3/include/SharedPtr.hpp
+/cygdrive/d/LABB01/lab3.1/labs3/include/SharedPtr.hpp
 atomic
 -
 cstddef
 -
 
-/cygdrive/c/универ/GITHUB/labs3/sources/SharedPtr.cpp
+/cygdrive/d/LABB01/lab3.1/labs3/sources/SharedPtr.cpp
 ../include/SharedPtr.hpp
-/cygdrive/c/универ/GITHUB/labs3/include/SharedPtr.hpp
+/cygdrive/d/LABB01/lab3.1/labs3/include/SharedPtr.hpp
 

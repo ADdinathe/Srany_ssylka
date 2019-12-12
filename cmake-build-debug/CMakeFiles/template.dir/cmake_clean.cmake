@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/template.dir/sources/SharedPtr.cpp.o"
-  "libtemplated.pdb"
   "libtemplated.a"
+  "libtemplated.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
